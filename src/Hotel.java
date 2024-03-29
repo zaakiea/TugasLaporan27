@@ -216,10 +216,4 @@ public class Hotel { //Kelas Hotel
         System.out.println("----------------------------------------------------------------------------------------------------------------------------------------");
     }
 }
-<<<<<<< HEAD
-//fjodsgpjsdgpbsygwepghsgjndgjsrpgesgpd pgldgsdgsdgdsgdsg
-//sdigsdogsdgsdgsdgsdg
-=======
-//Tes Komen
-
->>>>>>> f2ee8c349558031a20aedde38743a5708fba396a
+//bawadehek
