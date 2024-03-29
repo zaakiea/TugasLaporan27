@@ -10,7 +10,7 @@ class KamarHotel { //Kelas Kamar Hotel
         this.tipeKamar = tipeKamar;
         this.statusKamar = "Kosong";
     }
-
+//.
     public String getNomorKamar() {
         return nomorKamar;
     }
