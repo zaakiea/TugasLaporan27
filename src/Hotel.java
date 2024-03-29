@@ -1,6 +1,6 @@
 import java.util.*;
 
-class KamarHotel {
+class KamarHotel { //Kelas Kamar Hotel
     private String nomorKamar;
     private String tipeKamar;
     private String statusKamar;
@@ -28,7 +28,7 @@ class KamarHotel {
     }
 }
 
-class Tamu {
+class Tamu {//Kelas Tamu
     private String kodePesanan;
     private String nama;
     private String NIK;
@@ -101,7 +101,7 @@ class Tamu {
     }
 }
 
-public class Hotel {
+public class Hotel { //Kelas Hotel
     private static List<KamarHotel> kamar = new ArrayList<>();
     private static List<Tamu> tamu = new ArrayList<>();
 
@@ -216,4 +216,5 @@ public class Hotel {
         System.out.println("----------------------------------------------------------------------------------------------------------------------------------------");
     }
 }
-
+//fjodsgpjsdgpbsygwepghsgjndgjsrpgesgpd pgldgsdgsdgdsgdsg
+//sdigsdogsdgsdgsdgsdg
